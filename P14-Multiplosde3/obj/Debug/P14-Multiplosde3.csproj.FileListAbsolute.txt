@@ -1,0 +1,6 @@
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Multiplosde3\bin\Debug\P14-Multiplosde3.exe.config
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Multiplosde3\bin\Debug\P14-Multiplosde3.exe
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Multiplosde3\bin\Debug\P14-Multiplosde3.pdb
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Multiplosde3\obj\Debug\P14-Multiplosde3.csproj.CoreCompileInputs.cache
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Multiplosde3\obj\Debug\P14-Multiplosde3.exe
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Multiplosde3\obj\Debug\P14-Multiplosde3.pdb

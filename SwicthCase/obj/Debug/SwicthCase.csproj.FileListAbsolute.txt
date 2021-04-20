@@ -1,0 +1,7 @@
+C:\Users\clebe\Desktop\AprendendoCSharp\SwicthCase\obj\Debug\SwicthCase.csprojAssemblyReference.cache
+C:\Users\clebe\Desktop\AprendendoCSharp\SwicthCase\obj\Debug\SwicthCase.csproj.CoreCompileInputs.cache
+C:\Users\clebe\Desktop\AprendendoCSharp\SwicthCase\bin\Debug\SwicthCase.exe.config
+C:\Users\clebe\Desktop\AprendendoCSharp\SwicthCase\bin\Debug\SwicthCase.exe
+C:\Users\clebe\Desktop\AprendendoCSharp\SwicthCase\bin\Debug\SwicthCase.pdb
+C:\Users\clebe\Desktop\AprendendoCSharp\SwicthCase\obj\Debug\SwicthCase.exe
+C:\Users\clebe\Desktop\AprendendoCSharp\SwicthCase\obj\Debug\SwicthCase.pdb

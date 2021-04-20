@@ -1,0 +1,6 @@
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Fatorial\bin\Debug\P14-Fatorial.exe.config
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Fatorial\bin\Debug\P14-Fatorial.exe
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Fatorial\bin\Debug\P14-Fatorial.pdb
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Fatorial\obj\Debug\P14-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Fatorial\obj\Debug\P14-Fatorial.exe
+C:\Users\clebe\Desktop\AprendendoCSharp\P14-Fatorial\obj\Debug\P14-Fatorial.pdb
