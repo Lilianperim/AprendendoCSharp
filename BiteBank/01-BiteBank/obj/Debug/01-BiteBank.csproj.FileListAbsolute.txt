@@ -1,0 +1,7 @@
+C:\Users\clebe\source\repos\BiteBank\01-BiteBank\bin\Debug\01-BiteBank.exe.config
+C:\Users\clebe\source\repos\BiteBank\01-BiteBank\bin\Debug\01-BiteBank.exe
+C:\Users\clebe\source\repos\BiteBank\01-BiteBank\bin\Debug\01-BiteBank.pdb
+C:\Users\clebe\source\repos\BiteBank\01-BiteBank\obj\Debug\01-BiteBank.csprojAssemblyReference.cache
+C:\Users\clebe\source\repos\BiteBank\01-BiteBank\obj\Debug\01-BiteBank.csproj.CoreCompileInputs.cache
+C:\Users\clebe\source\repos\BiteBank\01-BiteBank\obj\Debug\01-BiteBank.exe
+C:\Users\clebe\source\repos\BiteBank\01-BiteBank\obj\Debug\01-BiteBank.pdb
